@@ -1,2 +1,10 @@
 # CursoPracticoJavaScript
-Repositorio del curso practico de JavaScript en Platzi
+
+...
+
+## Taller #1 : figuras geometricas
+
+- Primer paso : definir formulas
+- Segundo paso: implementar las formulas en JavaScript
+- Tercer paso: crear funciones 
+- Cuarto paso: integrar JS con HTML
